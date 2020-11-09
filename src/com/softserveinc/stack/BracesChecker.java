@@ -1,4 +1,4 @@
-package com.softserveinc;
+package com.softserveinc.stack;
 
 import java.util.*;
 
